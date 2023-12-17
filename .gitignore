@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+
+# ignore the manual testing file
+e2e_test.go
